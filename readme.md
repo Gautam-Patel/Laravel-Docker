@@ -22,7 +22,7 @@ To get started, the following steps needs to be taken:
 - `cd` to `web` and run the command to create a new Laravel project `laravel new src`.
 - Copy the `.env.example` file in the root of the project to `.env` and customise.
 - Run `docker-compose up -d` to start the containers.
-- Visit **http://localhost:8888** to see your Laravel application.
+- Visit **http://localhost:8080** to see your Laravel application.
 
 <p>&nbsp;</p>
 
